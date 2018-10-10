@@ -43,6 +43,8 @@ class Song
     return_hash = {}
     @@artists.each do |element|
 
+    end
+
   end
 
 
